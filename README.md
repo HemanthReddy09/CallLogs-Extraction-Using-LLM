@@ -34,11 +34,14 @@ This setup allows for interactive document processing with user input, providing
 1. Adding one Document/URL:
 <img width="1439" alt="Screenshot 2024-04-03 at 4 38 07 PM" src="https://github.com/HemanthReddy09/CallLogs-Extraction-using-LLM/assets/90491571/bb7b051c-15de-43bf-80c2-3d001133d931">
 
+
 2. Adding another Document/URL and removing the first one:
 <img width="1439" alt="Screenshot 2024-04-03 at 4 38 49 PM" src="https://github.com/HemanthReddy09/CallLogs-Extraction-using-LLM/assets/90491571/1c5882cb-cb0c-47fa-83a5-6a5974dedaf0">
 
+
 3. Adding multiple Documents/URL:
 <img width="1439" alt="Screenshot 2024-04-03 at 4 41 11 PM" src="https://github.com/HemanthReddy09/CallLogs-Extraction-using-LLM/assets/90491571/9c718c2c-c639-4908-9118-727c701ae3c3">
+
 
 4. Screenshot of JSON payload:
 <img width="1439" alt="Screenshot 2024-04-03 at 4 41 45 PM" src="https://github.com/HemanthReddy09/CallLogs-Extraction-using-LLM/assets/90491571/9b48d59e-2701-4818-ac26-2458fc5c0357">
