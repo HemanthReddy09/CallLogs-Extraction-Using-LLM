@@ -1,0 +1,1 @@
+The Call Logs Extraction project is structured to process and display information based on user-submitted questions and documents. The flow and functions of the project can be outlined as follows:![image](https://github.com/HemanthReddy09/CallLogs-Extraction-using-LLM/assets/90491571/d12e608c-3eda-4df4-8c08-d911eaa881b9)
